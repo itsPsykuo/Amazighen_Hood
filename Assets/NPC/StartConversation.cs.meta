@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8ac587acbd0249146a9fc5ea8e2cd8e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myConversation: {instanceID: 0}
+  - button_E: {fileID: 7716944627812419228, guid: 9466b23b55b063e48bf8ba5dce69450e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
